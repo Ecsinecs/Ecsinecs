@@ -8,7 +8,7 @@ Exceptuando proyectos con react, todos mis repositorios publicos que sirven como
 
 ### Welcome to my GitHub! - English
 
-**Currently I'm searching for a job as a __Junior Frontend__, if you are interested, you can contact me in my [LinkedIn](https://www.linkedin.com/in/lucas-j%C3%A4hnel-3491b5227/)!**
+**Currently I'm searching for a job as _Junior Frontend_, if you are interested, you can contact me in my [LinkedIn](https://www.linkedin.com/in/lucas-j%C3%A4hnel-3491b5227/)!**
 Currently I'm learning ReactJs, after studying Javascript and web development.
 I always try to use the best practices and to be in agreedment with my coworkers.
 
