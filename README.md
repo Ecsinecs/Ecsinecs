@@ -13,3 +13,8 @@ Currently I'm learning ReactJs, after studying Javascript and web development.
 I always try to use the best practices and to be in agreedment with my coworkers.
 
 Except projects with React, all my public repositories that funcion as personal projects has Github Pages activated, so look as you want!
+
+
+Habilidades/Skills:
+
+<a href="/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" align="left" height="48" width="48" ></a>
