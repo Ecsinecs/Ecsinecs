@@ -1,6 +1,7 @@
 ### ¡Bienvenido a mi GitHub! - Español
 
 **Estoy en busca de trabajo para _Frontend Junior_, si te intereso, ¡me podés contactar en mi [LinkedIn](https://www.linkedin.com/in/lucas-j%C3%A4hnel-3491b5227/)!**
+
 Complete tres cursos en Coderhouse, los cuales son: Desarrollo web, Javascript y ReactJS.
 Intento usar siempre las mejores practicas y estar de acuerdo con mis compañeros de trabajo.
 
@@ -9,6 +10,7 @@ Todos mis repositorios publicos que sirven como proyectos personales tienen acti
 ### Welcome to my GitHub! - English
 
 **Currently I'm searching for a job as _Junior Frontend_, if you are interested, you can contact me in my [LinkedIn](https://www.linkedin.com/in/lucas-j%C3%A4hnel-3491b5227/)!**
+
 I've completed three courses in Coderhouse, wich are: Web Development, Javascript and ReactJs.
 I always try to use the best practices and to be in agreedment with my coworkers.
 
