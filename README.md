@@ -14,7 +14,7 @@ Todos mis repositorios publicos que sirven como proyectos personales tienen acti
 I've completed three courses in Coderhouse, wich are: Web Development, Javascript and ReactJs.
 I always try to use the best practices and to be in agreedment with my coworkers.
 
-All my public repositories that funcion as personal projects has Github Pages activated, so look as you want!
+All my public repositories that funcion as personal projects has Github Pages activated, so look as much as you want!
 
 
 # Habilidades/Skills:
